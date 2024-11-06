@@ -118,6 +118,8 @@ Send a GET request to `/query/` with the desired query string.
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+For any questions, feel free to reach out to me at [raghavendra.bhargava2004@gmail.com](mailto:raghavendra.bhargava2004@gmail.com) or visit my GitHub: [Rxghav1103](https://github.com/Rxghav1103).
+
 ## License
 This project is licensed under the MIT License.
 
